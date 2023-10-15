@@ -18,3 +18,9 @@ Skillfactory 21 frontend
 После получения данных вывести список картинок на экран.
 
 Если пользователь перезагрузил страницу, то ему должны показываться картинки из последнего успешно выполненного запроса (использовать localStorage).
+
+
+The objective is to get accustomed with the following JS specifics: 
+-js: async/await;
+-fetch; 
+-localStorage;
