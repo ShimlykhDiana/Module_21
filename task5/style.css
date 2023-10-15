@@ -1,0 +1,34 @@
+body{
+   background-color: beige;
+}
+input {
+    padding: 5px;
+    font-size: 14px;
+}
+button {
+    padding: 5px 10px;
+    background-color: #041b34;
+    color: rgb(160, 158, 158);
+    cursor:pointer;
+    font-size: 14px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li.completed {
+    text-decoration: line-through;
+    color: #888;
+}
+h1{
+    color: transparent;    
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(90deg, rgb(14, 12, 65) 0%, rgba(134,107,30,1) 35%, rgba(0,255,246,0.8701855742296919) 100%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* .error {
+    color: black;
+    background-color: yellow; 
+} */
